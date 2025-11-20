@@ -1,0 +1,47 @@
+{
+  "S76136": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Herbert Zollner, Zur Hohen Linde 8, 94362 Neukirchen, Deutschland",
+    "price": "25.545 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Tri Glide Ultra Classic FLHTCUTG<br>Fahrgestelnummer: 1HD1MAD16H8854796<br>Erstzulassung: 01/2017<br>KM laut Vorbesitzer: 34.268 km<br>Leistung: 66 kW (90PS)<br>Hubraum: 1.745 cm³<br>Farbe: Schwarz<br><br>Das Trike ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Herbert Zollner<br>Zur Hohen Linde 8<br>94362 Neukirchen<br>Deutschland<br>Telefon: +49 171 7507774",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "19.11.2025",
+    "deliveryDate": "26.11.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
